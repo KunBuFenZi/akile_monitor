@@ -55,9 +55,6 @@ https://github.com/akile-network/akile_monitor_fe/releases/download/v0.0.1/akile
 
 ## 手动部署
 
-前端项目地址 https://github.com/akile-network/akile_monitor_fe
-
-
 后端主控部署教程：
 ```
 mkdir /etc/ak_monitor/
